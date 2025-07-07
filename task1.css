@@ -1,0 +1,19 @@
+.container{
+    width: 100%;
+}
+.item1,.item2,.item3,.item4,.item5,.item6,.item7,.item8{
+    width: 370px;
+    height: 370px;
+    position:relative;
+    display: inline-block;
+}
+img{
+    width: 100%;
+}
+p{
+    color:white;
+    background-color: black;
+    position: absolute;
+    padding: 7px;
+    top: 0%;
+}
